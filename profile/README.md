@@ -1,4 +1,4 @@
-# 🌍 EOCoreINT — Democratizing Earth Observation AI in Africa
+# EOCoreINT — Democratizing Earth Observation AI in Africa
 
 <div align="center">
 
