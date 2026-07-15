@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![EOCoreINT Logo](https://www.eocoreint.com/logo.png)
+![EOCoreINT Logo](https://www.eocoreint.com/static/img/logo/eoint-logo-3d.svg)
 
 **Democratizing Earth Observation AI in Africa and the Global South**
 
