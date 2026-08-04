@@ -1,4 +1,4 @@
-# 🌍 EOCoreINT
+
 
 <div align="center">
 
