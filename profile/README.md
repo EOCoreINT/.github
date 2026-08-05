@@ -32,7 +32,7 @@ We build open-source tools that give African institutions the power to monitor t
 | Project | Description | Providers | Status |
 |---------|-------------|-----------|--------|
 | **[PyGeoFetch](https://github.com/EOCoreINT/pygeofetch)** | Universal satellite data pipeline with unified access to 22+ providers | Sentinel, Landsat, Planet, NASA, USGS, Maxar, Airbus, JAXA, ISRO, INPE | ✅ Stable |
-| **[PyGeoVision](https://github.com/EOCoreINT/pygeovision)** | Complete geospatial AI platform — segmentation, detection, change detection, foundation models | 24 AI subsystems, 10+ end-to-end pipelines, 14 model architectures | 🚀 Coming Soon |
+| **[PyGeoVision](https://github.com/EOCoreINT/pygeovision)** | Complete geospatial AI platform — segmentation, detection, classification,embeddings,change detection, foundation models | 24 AI subsystems, 10+ end-to-end pipelines, 14 model architectures | Coming Soon |
 
 ---
 
