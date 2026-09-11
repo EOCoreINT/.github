@@ -1,7 +1,5 @@
 <div align="center">
 
-**Democratizing Earth Observation AI in Africa and the Global South**
-
 [![Website](https://img.shields.io/badge/Website-eocoreint.com-e9660e?style=for-the-badge&logo=vercel&logoColor=white)](https://www.eocoreint.com)
 [![GitHub Org](https://img.shields.io/badge/GitHub-EOCoreINT-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EOCoreINT)
 [![Twitter](https://img.shields.io/badge/Twitter-@EOCoreINT-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/EOCoreINT)
