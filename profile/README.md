@@ -34,6 +34,41 @@ We build open-source tools that give African institutions the power to monitor t
 
 ---
 
+# 📢 Accessing Closed-Beta Deep-Tech Engines (ps-gnn, pyunwrap-insar, pygeovision)
+
+Thank you for exploring the **EOCoreINT** ecosystem! While **PyGeoFetch** serves as our public, stable production layer for federated data ingestion and baseline InSAR processing chains, our advanced machine learning and deep-tech engines are currently undergoing intensive closed-beta validation campaigns. 
+
+To maintain strict configuration control and scientific verification prior to public release, the repositories below remain private:
+*   **ps-gnn** (Graph Attention Networks for topological Persistent Scatterer target selection)
+*   **pyunwrap-insar** (Physics-Informed Deep Phase Unwrapping via AmbiguityNet)
+*   **pygeovision** (Enterprise-ready GeoAI platform with an audited model registry)
+
+---
+
+## Academic & Institutional Access
+
+If you are an academic researcher, remote sensing scientist, or institutional partner (such as **Z_GIS, DLR, ESA**, or Global South monitoring bodies) looking to benchmark your data, collaborate on validation campaigns, or test these private backends, we welcome your involvement.
+
+### How to Request Private Access:
+Please open a new issue using the **"Closed-Beta Access Request"** format or email our development lead directly at **samuel.appiah.kubi@eocoreint.com** with the following information:
+
+1. **Your Name / Institution / Organization**
+2. **Target Repository:** (`ps-gnn` | `pyunwrap-insar` | `pygeovision`)
+3. **Your Specific Use Case:** (e.g., urban subsidence modeling, longwall mining displacement, infrastructure stress tracking)
+4. **Data Framework:** (e.g., Sentinel-1 SLC stacks, multi-spectral foundation arrays)
+5. **Your GitHub Username:** (For repository collaborator invitations)
+
+---
+
+## Existing Validation Case Studies
+You can view active, real-world implementations of these closed-beta engines running alongside our public core in our validation repositories:
+*   [Mexico City Subsidence Project](https://github.com) (502 GB / 67-scene Sentinel-1 SBAS inversion tracking vertical velocity limits)
+*   [Bu'ertai Mining Subsidence Report](https://github.com) (Multi-modal InSAR-to-Optical POT handoff recovering 226m of rapid displacement)
+
+---
+*We look forward to collaborating with you to democratize advanced Earth Observation analytics.*
+
+
 ## 🔧 What We Build
 
 | Area | What We Deliver |
