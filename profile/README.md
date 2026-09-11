@@ -50,7 +50,7 @@ To maintain strict configuration control and scientific verification prior to pu
 If you are an academic researcher, remote sensing scientist, or institutional partner (such as **Z_GIS, DLR, ESA**, or Global South monitoring bodies) looking to benchmark your data, collaborate on validation campaigns, or test these private backends, we welcome your involvement.
 
 ### How to Request Private Access:
-Please open a new issue using the **"Closed-Beta Access Request"** format or email our development lead directly at **samuel.appiah.kubi@eocoreint.com** with the following information:
+Please open a new issue using the **"Closed-Beta Access Request"** format or email our development lead directly at **appiahkubis14@gmail.com** with the following information:
 
 1. **Your Name / Institution / Organization**
 2. **Target Repository:** (`ps-gnn` | `pyunwrap-insar` | `pygeovision`)
