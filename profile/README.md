@@ -1,8 +1,4 @@
-
-
 <div align="center">
-
-
 
 **Democratizing Earth Observation AI in Africa and the Global South**
 
@@ -19,20 +15,22 @@
 
 Earth observation is powerful — and locked behind a paywall.
 
-Across Africa, the institutions that most need satellite intelligence — to monitor deforestation, detect illegal mining, track crop health, and map urban growth — are forced to choose between expensive proprietary software with per-seat licences, or fragmented scripts that are hard to reproduce and impossible to audit.
+Across Africa and the Global South, the institutions that most need satellite intelligence — to monitor deforestation, detect illegal mining, track crop health, evaluate infrastructure stress, and map urban growth — are forced to choose between expensive proprietary software with per-seat licenses, or fragmented scripts that are hard to reproduce and impossible to audit.
 
 **EOCoreINT closes that gap.**
 
-We build open-source tools that give African institutions the power to monitor their own land from space — without depending on costly foreign software.
+We build open-source tools that give African institutions the power to monitor their own land from space — fusing production-grade data pipelines, cutting-edge Graph Deep Learning, and physics-informed AI frameworks without depending on costly foreign software.
 
 ---
 
 ## 🛰️ Our Open Source Projects
 
-| Project | Description | Providers | Status |
-|---------|-------------|-----------|--------|
-| **[PyGeoFetch](https://github.com/EOCoreINT/pygeofetch)** | Universal satellite data pipeline with unified access to 22+ providers | Sentinel, Landsat, Planet, NASA, USGS, Maxar, Airbus, JAXA, ISRO, INPE | ✅ Stable |
-| **[PyGeoVision](https://github.com/EOCoreINT/pygeovision)** | Complete geospatial AI platform — segmentation, detection, classification,embeddings,change detection, foundation models | 24 AI subsystems, 10+ end-to-end pipelines, 14 model architectures | Coming Soon |
+| Project | Description | Providers / Frameworks | Status |
+|---------|-------------|------------------------|--------|
+| **[PyGeoFetch](https://github.com/EOCoreINT/pygeofetch)** | Universal satellite data pipeline with unified access to 22+ providers and native, pure-Python Windows-compatible InSAR processing chains. | Sentinel, Landsat, Planet, NASA, USGS, Maxar, Airbus, JAXA, ISRO, INPE | ✅ Stable |
+| **[PyGeoVision](https://github.com/EOCoreINT/pygeovision)** | Complete geospatial AI platform — segmentation, detection, classification, embeddings, change detection, and foundation models driven by a natural-language query interface. | 24 AI subsystems, 10+ end-to-end pipelines, 14 model architectures | ⏳ Coming Soon |
+| **[ps-gnn](https://github.com)** | Spatial Graph Network framework reframing Persistent Scatterer (PS) selection as topological node classification to optimize time-series networks in low-coherence regions. | 8-Head Graph Attention Networks (GAT), irregular spatial topology mappings (k-NN/Delaunay) | 🔬 Intensive Testing |
+| **[pyunwrap-insar](https://github.com)** | Physics-informed neural network engine resolving complex radar phase-unwrapping boundaries without classic statistical cost-network flow bottlenecks. | AmbiguityNet architecture, straight-through estimator rounding layers, strict physical \(\text{wrap}(\hat{\phi}) \equiv \psi\) losses | 🔬 Intensive Testing |
 
 ---
 
@@ -40,11 +38,12 @@ We build open-source tools that give African institutions the power to monitor t
 
 | Area | What We Deliver |
 |------|-----------------|
-| **Satellite Data Access** | Unified search, download, and processing across 22+ providers with a single CLI and Python API |
-| **Geospatial AI** | Ready-to-use models for building footprints, water bodies, change detection, and custom training |
-| **Training & Certification** | Four structured levels from satellite fundamentals to custom model training |
-| **Custom Pipelines** | Bespoke monitoring systems for deforestation, mining, crops, coastal erosion, and urban growth |
-| **Data-as-a-Service** | Monthly NDVI composites, building-footprint extracts, change-detection reports on subscription |
+| **Satellite Data Access** | Unified search, download, and processing across 22+ providers with a single CLI and Python API. |
+| **Geospatial AI & Vision** | Ready-to-use models for building footprints, water bodies, change detection, and multi-spectral foundation model scaling. |
+| **Advanced Interferometry** | Non-local graph representation learning for scatterer tracking and deep physical wave constraints for radar phase unwrapping. |
+| **Training & Certification** | Four structured levels from satellite fundamentals to custom model training and advanced hybrid AI deployments. |
+| **Custom Pipelines** | Bespoke monitoring systems for terrain deformation, mining subsidence, crop dynamics, coastal erosion, and infrastructure stress. |
+| **Data-as-a-Service** | Monthly NDVI composites, building-footprint extracts, change-detection reports, and displacement matrices on subscription. |
 
 ---
 
@@ -54,10 +53,10 @@ We believe in **open knowledge**. Our courses are free and accessible to anyone:
 
 | Course Level | Content |
 |--------------|---------|
-| **Level 1** | Satellite Data Fundamentals with PyGeoFetch |
-| **Level 2** | Intermediate EO Workflows (Indices, Time Series, Cloud Masks) |
-| **Level 3** | Advanced Geospatial AI with PyGeoVision |
-| **Level 4** | Custom Model Training & Pipeline Orchestration |
+| **Level 1** | Satellite Data Fundamentals and Federated Access with PyGeoFetch |
+| **Level 2** | Intermediate EO Workflows (Indices, Time Series Analytics, Cloud Masking, Baseline SBAS) |
+| **Level 3** | Advanced Geospatial AI Inference & Computer Vision with PyGeoVision |
+| **Level 4** | Custom Model Training, Graph Deep Learning, Physics-Informed Neural Networks, and Pipeline Orchestration |
 
 Start learning today at **[eocoreint.com](https://www.eocoreint.com)**
 
@@ -67,10 +66,11 @@ Start learning today at **[eocoreint.com](https://www.eocoreint.com)**
 
 | Challenge | Our Solution |
 |-----------|--------------|
-| Proprietary software is expensive | We build open-source alternatives |
-| Data access is fragmented | We unify 22+ providers into one API |
-| AI tools are complex | We provide production-ready pipelines |
-| African institutions are underserved | We focus on real problems in the Global South |
+| Proprietary software is expensive | We build open-source alternatives. |
+| Data access is fragmented | We unify 22+ providers into one clean API. |
+| Classical algorithms decorrelate | We deploy hybrid spatial graph networks and physics-informed models. |
+| AI tools treat geography blindly | We fuse core physical remote sensing invariants with deep learning architectures. |
+| African institutions are underserved | We focus on high-impact, real-world problems in the Global South. |
 
 ---
 
@@ -112,7 +112,7 @@ All EOCoreINT open-source projects are released under the **MIT License** unless
 
 <div align="center">
 
-**Built with ❤️ in Africa, for Africa.**
+**Built with ❤️ in Africa, for Africa and the Global South.**
 
 *Earth observation is powerful — and it should be open to everyone.*
 
