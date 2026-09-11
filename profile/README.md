@@ -13,13 +13,13 @@
 
 ## 🎯 Our Mission
 
-Earth observation is powerful — and locked behind a paywall.
+Earth observation is powerful and locked behind a paywall.
 
-Across Africa and the Global South, the institutions that most need satellite intelligence — to monitor deforestation, detect illegal mining, track crop health, evaluate infrastructure stress, and map urban growth — are forced to choose between expensive proprietary software with per-seat licenses, or fragmented scripts that are hard to reproduce and impossible to audit.
+Across Africa and the Global South, the institutions that most need satellite intelligence to monitor deforestation, detect illegal mining, track crop health, evaluate infrastructure stress, and map urban growth — are forced to choose between expensive proprietary software with per-seat licenses, or fragmented scripts that are hard to reproduce and impossible to audit.
 
 **EOCoreINT closes that gap.**
 
-We build open-source tools that give African institutions the power to monitor their own land from space — fusing production-grade data pipelines, cutting-edge Graph Deep Learning, and physics-informed AI frameworks without depending on costly foreign software.
+We build open-source tools that give African institutions the power to monitor their own land from space , fusing production-grade data pipelines, cutting-edge Graph Deep Learning, and physics-informed AI frameworks without depending on costly foreign software.
 
 ---
 
