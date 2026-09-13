@@ -9,7 +9,7 @@
 
 ---
 
-EOCoreINT was founded by Samuel Appiah Kubi, a Geospatial Engineer from Ghana. After building pygeofetch , the first pure-Python, Windows-native InSAR pipeline  and full geospatial processing and analsis engine, he realized that the tools existed, but the access didn't. EOCoreINT is his answer: a complete, open-source ecosystem for African institutions to monitor their own land from space.
+EOCoreINT was founded by Samuel Appiah Kubi, a Geospatial Engineer from Ghana. After building pygeofetch , the first pure-Python, Windows-native InSAR pipeline  and full geospatial processing and analysis engine, he realized that the tools existed, but the access didn't. EOCoreINT is his answer: a complete, open-source ecosystem for African institutions to monitor their own land from space.
 
 ## 🎯 Our Mission
 
