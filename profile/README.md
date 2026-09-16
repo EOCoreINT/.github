@@ -62,8 +62,7 @@ Please open a new issue using the **"Closed-Beta Access Request"** format or ema
 
 ## Existing Validation Case Studies
 You can view active, real-world implementations of these closed-beta engines running alongside our public core in our validation repositories:
-*   [Mexico City Subsidence Project](https://github.com) (502 GB / 67-scene Sentinel-1 SBAS inversion tracking vertical velocity limits)
-*   [Bu'ertai Mining Subsidence Report](https://github.com) (Multi-modal InSAR-to-Optical POT handoff recovering 226m of rapid displacement)
+*   [Mexico City Subsidence Project](https://github.com/EOCoreINT/mexico-subsidence-project) (502 GB / 67-scene Sentinel-1 SBAS inversion tracking vertical velocity limits)
 
 ---
 *We look forward to collaborating with you to democratize advanced Earth Observation analytics.*
