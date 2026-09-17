@@ -29,8 +29,8 @@ We build open-source tools that give African institutions the power to monitor t
 |---------|-------------|------------------------|--------|
 | **[pygeofetch](https://github.com/EOCoreINT/pygeofetch)** | Universal satellite data pipeline with unified access to 22+ providers and native, pure-Python Windows-compatible InSAR processing chains. | Sentinel, Landsat, Planet, NASA, USGS, Maxar, Airbus, JAXA, ISRO, INPE | ✅ Stable |
 | **[pygeovision](https://github.com/EOCoreINT/pygeovision)** | Complete geospatial AI platform — segmentation, detection, classification, embeddings, change detection, and foundation models driven by a natural-language query interface. | 24 AI subsystems, 10+ end-to-end pipelines, 14 model architectures | ⏳ Coming Soon |
-| **[ps-gnn](https://github.com)** | Spatial Graph Network framework reframing Persistent Scatterer (PS) selection as topological node classification to optimize time-series networks in low-coherence regions. | 8-Head Graph Attention Networks (GAT), irregular spatial topology mappings (k-NN/Delaunay) | 🔬 Intensive Testing |
-| **[pyunwrap-insar](https://github.com)** | Physics-informed neural network engine resolving complex radar phase-unwrapping boundaries without classic statistical cost-network flow bottlenecks. | AmbiguityNet architecture, straight-through estimator rounding layers, strict physical \(\text{wrap}(\hat{\phi}) \equiv \psi\) losses | 🔬 Intensive Testing |
+| **[ps-gnn](https://github.com/EOCoreINT/ps-gnn)** | Spatial Graph Network framework reframing Persistent Scatterer (PS) selection as topological node classification to optimize time-series networks in low-coherence regions. | 8-Head Graph Attention Networks (GAT), irregular spatial topology mappings (k-NN/Delaunay) | 🔬 Intensive Testing |
+| **[pyunwrap-insar](https://github.com/EOCoreINT/pyunwrap)** | Physics-informed neural network engine resolving complex radar phase-unwrapping boundaries without classic statistical cost-network flow bottlenecks. | AmbiguityNet architecture, straight-through estimator rounding layers, strict physical \(\text{wrap}(\hat{\phi}) \equiv \psi\) losses | 🔬 Intensive Testing |
 
 ---
 
