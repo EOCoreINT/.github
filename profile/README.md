@@ -53,7 +53,7 @@ If you are an academic researcher, remote sensing scientist, or institutional pa
 Please open a new issue using the **"Closed-Beta Access Request"** format or email our development lead directly at **appiahkubis14@gmail.com** with the following information:
 
 1. **Your Name / Institution / Organization**
-2. **Target Repository:** (`ps-gnn` | `pyunwrap-insar` | `pygeovision`)
+2. **Target Repository:** (`ps-gnn` | `pyunwrap-insar`)
 3. **Your Specific Use Case:** (e.g., urban subsidence modeling, longwall mining displacement, infrastructure stress tracking)
 4. **Data Framework:** (e.g., Sentinel-1 SLC stacks, multi-spectral foundation arrays)
 5. **Your GitHub Username:** (For repository collaborator invitations)
