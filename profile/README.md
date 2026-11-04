@@ -34,7 +34,7 @@ We build open-source tools that give African institutions the power to monitor t
 
 ---
 
-# 📢 Accessing Closed-Beta Deep-Tech Engines (ps-gnn, pyunwrap-insar, pygeovision)
+# 📢 Accessing Closed-Beta Deep-Tech Engines (ps-gnn, pyunwrap-insar)
 
 Thank you for exploring the **EOCoreINT** ecosystem! While **PyGeoFetch** serves as our public, stable production layer for federated data ingestion and baseline InSAR processing chains, our advanced machine learning and deep-tech engines are currently undergoing intensive closed-beta validation campaigns. 
 
